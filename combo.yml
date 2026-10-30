@@ -1,0 +1,5 @@
+# Generated from the combos section of randomcontainers/terragrunt package.yml by randomcontainers/ci.
+# Do not edit; change package.yml in randomcontainers/terragrunt instead.
+name: terragrunt-opentofu-openssh-client
+owner: terragrunt
+with: [opentofu, openssh-client]
